@@ -1,4 +1,3 @@
-# Tmdb-Box-Office-Prediction
 # TMDB-Box-Office-Prediction
 ## Overview
 Brief description of your project.
